@@ -1,0 +1,44 @@
+body{
+  background-image: url("background1.png");
+}
+footer {
+    text-align: center;
+    width: 100%;
+  background-color:cornflowerblue;
+  color: black;
+  display: block;
+    position: fixed;
+    bottom: 0;
+    font-style: italic;
+    padding-top: 20px;
+  }
+.myhover{
+ padding-right: 750px;
+}
+#new{
+    padding-right: 20px;
+}
+#center{
+  border: 2px solid blue;
+  background-color: lightblue;
+  padding-left: 40px;
+  font-style: italic;
+  
+}
+
+.button{
+  display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.table{
+  background-color:black;
+  color: bisque;
+  font-weight: bold;
+  font-size: large;
+}
+.topnav-right {
+  float: right;
+}
+
+
